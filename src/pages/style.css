@@ -1,0 +1,36 @@
+/* .target {
+    position: absolute;
+    width: 6rem;
+    height: 6rem;
+    background-color: #fbbf24;
+    color: #1f2937;
+    font-weight: bold;
+    border: 1px solid #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.target1 {
+    left: 10px;
+    top: 10px;
+    border-radius: 25px;
+}
+
+.target2 {
+    left: 140px;
+    top: 10px;
+    border-radius: 25px 23px;
+}
+
+.target3 {
+    left: 10px;
+    top: 140px;
+    border-radius: 25px 23px / 20px;
+}
+
+.target4 {
+    left: 140px;
+    top: 140px;
+    border-radius: 25px 25.5px 24.5px 24.9115px / 25.5px 25.5px 24.5px 24.5px;
+} */

@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+}
+
+@keyframes color-change {
+    0% {
+        background-color: orange;
+    }
+
+    33% {
+        background-color: white;
+    }
+
+    66% {
+        background-color: green;
+    }
+
+    100% {
+        background-color: orange;
+    }
+}
+
+.animate-color-change {
+    animation: color-change 3s infinite;
+}
